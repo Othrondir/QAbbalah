@@ -11,14 +11,14 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes@4.15.1"
-minimal_mistakes_skin    : "dark" 
+minimal_mistakes_skin    : "_lex" 
 
 # Site Settings
 locale                   : "en-US"
 title                    : "qabbalah.github.io"
 title_separator          : "-"
 name                     : "Lex J."
-description              : "Posts about Quality Assurance, related tools and Testing Methodologies. We talk about demons time to time."
+description              : "Posts about Quality Assurance, related tools and Testing Methodologies."
 url                      : "https://qabbalah.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "QAbbalah" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
