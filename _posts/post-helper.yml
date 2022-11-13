@@ -1,0 +1,45 @@
+
+#############################################################################
+
+Images
+
+![](/assets\images\testing-theory1.png)
+
+#############################################################################
+
+CMD
+## Portscan
+
+```
+Nmap scan report for 10.129.148.141
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
+| ssh-hostkey: 
+|_  256 b7:9d:f7:48:9d:a2:f2:76:30:fd:42:d3:35:3a:80:8c (ED25519)
+80/tcp   open  http    nginx 1.14.2
+|_http-server-header: nginx/1.14.2
+|_http-title: Welcome
+8065/tcp open  unknown
+| fingerprint-strings: 
+|_   GenericLines, Help, RTSPRequest, SSLSessionReq, TerminalServerCookie: 
+```
+
+#############################################################################
+
+Title
+## Title
+
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
+
+#############################################################################
+
+links
+
+- [https://QAbbalah.github.io](https://QAbbalah.github.io)
+
+#############################################################################
+
+data, passwords, etc.
+
+`data`
+
+#############################################################################

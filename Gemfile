@@ -4,6 +4,7 @@ source "https://rubygems.org"
 # When you want to use a different version, change it below, save the
 # file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
 #
+#     bundle add webrick
 #     bundle exec jekyll serve
 #
 # This will help ensure the proper Jekyll version is running.
@@ -30,3 +31,5 @@ gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
+
+gem "webrick", "~> 1.7"

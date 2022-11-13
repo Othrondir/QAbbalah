@@ -1,11 +1,11 @@
 main:
-  - title: "Home"
+  - title: "Headquarters"
     url: /
-  - title: "Posts"
+  - title: "Codex entries"
     url: /year-archive/
-  - title: "Categories"
+  - title: "Weapons and Spells"
     url: /categories/
-  - title: "Tags"
+  - title: "Types of Demons"
     url: /tags/
-  - title: "About"
+  - title: "What the hell is this website?"
     url: /about/
