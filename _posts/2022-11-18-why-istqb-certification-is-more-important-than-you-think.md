@@ -4,9 +4,6 @@ title: Why ISTQB certification is more important than you think
 excerpt: "ISTQB® is the leading global certification scheme in the field of software testing. This is very important when someone is deciding between you or other candidate."
 date: 2023-02-19
 classes: wide
-header:
-  teaser: /assets\posts\2022-11-18\ISTQB.png
-  teaser_home_page: true
 categories:
   - QA Theory
 tags:  
