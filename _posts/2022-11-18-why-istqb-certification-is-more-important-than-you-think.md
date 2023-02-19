@@ -19,10 +19,9 @@ ISTQBuster It's a little project that lets you practice day to day, just select 
 Then plan two weeks ahead, do between 2-3 hours of tests every day and nail it, [plan your ISTQB voucher](https://www.istqb.org/certifications/find-an-exam-provider) with condidence.
 
 ## ISTQBuster usage
-In the following address you can comfortably browse the three types of exams that the institution itself provides for practice, I hope it helps someone to achieve their goals. Good luck!
+In the following address you can comfortably browse the three types of exams that the institution itself provides for practice, I hope it helps someone to achieve their goals, Good luck! (remember to use Google Chrome for better UX).
 
 [ISTQBuster v1.0](https://qabbalah.github.io/ISTQBuster/)
-
 
 ## Postscript
 For those who wonder how I created the quiz ->
