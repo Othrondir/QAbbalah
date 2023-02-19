@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "_lex"
 locale                   : "en-US"
 title                    : "qabbalah.github.io"
 title_separator          : "-"
-name                     : "Lex J."
+name                     : "Alejandro O. Jiménez"
 description              : "Posts about Quality Assurance, related tools and Testing Methodologies."
 url                      : "https://qabbalah.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -100,9 +100,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lex J."
+  name             : "Alejandro O. Jiménez"
   avatar           : "/assets/images/avatar.png"
-  bio              : "QA Engineer, Issue exorcist<br>I like frogs"
+  bio              : "QA Engineer, Issue exorcist.<br>I like frogs"
   location         : "Spain"
   email            : "theqabbalah@gmail.com"
   uri              :
