@@ -23,6 +23,8 @@ In the following address you can comfortably browse the three types of exams tha
 
 [ISTQBuster v1.0](https://qabbalah.github.io/ISTQBuster/)
 
+Happy hunting, fellow testers ;)
+
 ## Postscript
 For those who wonder how I created the quiz:
 [Forked from jcubic/gaiman](https://github.com/QAbbalah/gaiman)
