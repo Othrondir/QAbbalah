@@ -21,8 +21,8 @@ Then plan two weeks in advance, do 2-3 hours of exams every day and nail it, [pl
 ## ISTQBuster usage
 At the following address you can comfortably browse through the three types of exams that the institution itself offers for practice, I hope it helps someone to achieve their goals, good luck!.
 
-[ISTQBuster v1.0](https://qabbalah.github.io/ISTQBuster/)
-
+[ISTQBuster v1.0](
+https://othrondir.github.io/ISTQBuster/)
 Happy hunting, fellow testers ;)
 
 ## Postscript
