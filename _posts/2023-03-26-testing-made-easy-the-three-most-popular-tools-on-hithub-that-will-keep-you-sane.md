@@ -5,9 +5,9 @@ excerpt: "Discover the top testing tools on Github - Microsoft Playwright, Cypre
 date: 2023-03-26
 classes: wide
 categories:
-  - Github
+  - QA frameworks
 tags:  
-  - ISTQB
+  - Github
 ---
 Hey there, my fellow techies and testers! Today, I want to talk about the three most popular tools used by testers on Github. These are the tools that keep us sane while we’re busy breaking stuff! So, without further ado, let’s dive into the world of testing!
 
