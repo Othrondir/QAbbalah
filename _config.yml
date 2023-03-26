@@ -19,7 +19,7 @@ title                    : "github.com/Othrondir/QAbbalah"
 title_separator          : "-"
 name                     : "Alejandro O. Jiménez"
 description              : "Posts about Quality Assurance, related tools and Testing Methodologies."
-url                      : "https://othrondir.github.io/QAbbalah/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://othrondir.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/Othrondir" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 logo                     : "/assets/images/masthead.png"
@@ -106,7 +106,7 @@ author:
   location         : "Spain"
   email            : "theqabbalah@gmail.com"
   uri              :
-  home             : "https://othrondir.github.io/QAbbalah/"
+  home             : "https://othrondir.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
