@@ -11,7 +11,7 @@ tags:
 ---
 Hey there, my fellow techies and testers! Today, I want to talk about the three most popular tools used by testers on Github. These are the tools that keep us sane while we’re busy breaking stuff! So, without further ado, let’s dive into the world of testing!
 
-![top3git](assets\images\2023-03-26-testing-made-easy-the-three-most-popular-tools-on-hithub-that-will-keep-you-sane\top3git.jpg)
+![top3git](https://github.com/Othrondir/QAbbalah/blob/master/assets/images/2023-03-26-testing-made-easy-the-three-most-popular-tools-on-hithub-that-will-keep-you-sane/top3git.jpg?raw=true)
 
 ## Microsoft Playwright
 Coming in at first place, we have Microsoft Playwright. If you’re not familiar with Playwright, it’s a cross-browser testing tool that lets you automate tasks and tests in multiple browsers with ease. Playwright has quickly become a favorite among testers, thanks to its powerful API, easy-to-use syntax, and great documentation. In fact, some testers love it so much that they’ve even started referring to it as their “work spouse”!
