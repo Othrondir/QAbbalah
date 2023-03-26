@@ -1,11 +1,11 @@
 ---
 layout: single
-title: Testing Made Easy, The Three Most Popular Tools on Github That Will Keep You Sane!
+title: Testing made easy, the three most popular tools on Github that will keep you sane
 excerpt: "Discover the top testing tools on Github - Microsoft Playwright, Cypress, and Selenium - and streamline your testing process today."
 date: 2023-03-26
 classes: wide
 categories:
-  - QA frameworks
+  - QA Frameworks
 tags:  
   - Github
 ---
