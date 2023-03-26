@@ -21,7 +21,7 @@ name                     : "Alejandro O. Jiménez"
 description              : "Posts about Quality Assurance, related tools and Testing Methodologies."
 url                      : "https://othrondir.github.io/QAbbalah/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "QAbbalah" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "Othrondir" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 logo                     : "/assets/images/masthead.png"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : true # true, false (default)
@@ -113,7 +113,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "QAbbalah"
+  github           : "Othrondir"
   gitlab           :
   google_plus      :
   keybase          : # "snowscan"
