@@ -25,8 +25,11 @@ Not only can k6 run complex load tests, but it also provides real-time performan
 
 ## User-Friendly Interface:
 But wait, there's more! k6's user-friendly interface makes it easy for even non-technical users to create and run load tests. No more wading through complicated menus or confusing configuration settings - k6 has streamlined everything for you.
-So there you have it, folks. k6 may have been the underdog in the load testing world, but it's quickly becoming the new king. And with its advanced scripting capabilities, real-time monitoring, and user-friendly interface, it's not hard to see why.
 
-So let's raise a glass to k6 - the new ruler of the load testing kingdom. Long live the king!.
+***
+
+So there you have it, folks. k6 may have been the underdog in the world of load testing, but it's fast becoming the new king. And with its advanced scripting capabilities, real-time monitoring and easy-to-use interface, it's not hard to see why.
+
+Paradoxically, Domain Specific Language has killed itself off in favour of programmer-oriented framework maintainability. So let's raise a glass to k6 - the new ruler of the load testing kingdom. Long live the king!
 
 Happy hunting, fellow testers ;)
