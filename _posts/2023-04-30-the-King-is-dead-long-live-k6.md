@@ -11,7 +11,7 @@ tags:
 ---
 Ladies and gentlemen, we are gathered here today to mourn the loss of the once-great JMeter and Gatling, the former kings of load testing. But fear not, for a new ruler has emerged - the mighty k6!
 
-![top3git](https://github.com/Othrondir/QAbbalah/blob/master/assets/images/2023-04-30-the-King-is-dead-long-live-k6/bert.png?raw=false)
+![top3git](https://github.com/Othrondir/QAbbalah/blob/master/assets/images/2023-04-30-the-King-is-dead-long-live-k6/bert.png?raw=true)
 
 Yes, k6 may not have the same age or experience as its predecessors, but what it lacks in years, it makes up for in raw power and flexibility. With k6, you can simulate thousands of users hitting your website at once, giving you the insights you need to optimize your site's performance and prevent any catastrophic failures.
 
@@ -25,8 +25,6 @@ Not only can k6 run complex load tests, but it also provides real-time performan
 
 ## User-Friendly Interface:
 But wait, there's more! k6's user-friendly interface makes it easy for even non-technical users to create and run load tests. No more wading through complicated menus or confusing configuration settings - k6 has streamlined everything for you.
-
-##
 So there you have it, folks. k6 may have been the underdog in the load testing world, but it's quickly becoming the new king. And with its advanced scripting capabilities, real-time monitoring, and user-friendly interface, it's not hard to see why.
 
 So let's raise a glass to k6 - the new ruler of the load testing kingdom. Long live the king!.
