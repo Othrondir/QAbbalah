@@ -1,7 +1,7 @@
 ---
 layout: single
 title: The King is Dead, Long Live k6
-excerpt: "How k6 is Taking Over the Throne!"
+excerpt: "How k6 is Taking Over the Throne!, the story of how Domain Specific Language paradoxically killed itself off in favour of a programmer-oriented framework."
 date: 2023-04-30
 classes: wide
 categories:
